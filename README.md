@@ -9,7 +9,7 @@ Para utilizar o pluguin basta adicionar sua chamada como no exemplo abaixo:
 
 ```html
 
-<script type="text/javascript" src="tests/js/doc_validator.min.js"></script>
+<script type="text/javascript" src="tests/js/doc-validator.min.js"></script>
 ```
 
 Adicionar o objeto que irá receber o valor.
